@@ -1,9 +1,9 @@
 ## Dapp App with meta-mask
 
 ### Tasks
-- Install Web3 module and Material UI
-- Get the Web3 object from the browser
-- Setup the app for managing state
+- Install Web3 module and Material UI - (*)
+- Get the Web3 object from the browser - (*)
+- Setup the app for managing state - (*)
 - Connect user wallet to the app, update information
 - Convert each balance to wei/ from wei
 - Update state after each transaction
