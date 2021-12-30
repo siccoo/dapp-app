@@ -8,6 +8,7 @@ const useWeb3 = () => {
         var instance;
 
         if (window.ethereum) {
+            // SETTING UP NEW PROVIDER
             try {
                 instance = new Web3(window.ethereum);
             } catch(error) {
